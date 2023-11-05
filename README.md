@@ -58,12 +58,16 @@
 									<h3><strong>Hi there! I’m Amal.</strong></h3>
 								</header>
 								<!-- <h3>Left &amp; Right</h3> -->
-								<h2>About me</h2>
-								<p><span class="image left"><img src="images/pic08.jpg" alt="" /></span>I’m a Data Science Research Assistant at Procter & Gamble, where I apply cutting-edge machine learning and statistical models to enhance product analysis. 
-								<br />I am a Master's student in Artificial Intelligence and Robotics at University of Cincinnati, Ohio. I am proficient in programming languages such as Python, C++, and Matlab, and skilled in utilizing machine learning tools and libraries including PyTorch, TensorFlow, Scikit-learn, and OpenCV. I am passionate about continuous learning and innovation, and eager to contribute to dynamic projects and collaborative teams.
-								<br />I also enjoy reading books, gaming and Trading Crypto.</p>
 								<header>
-									<h2>Skills</h2>
+								<h2>About me</h2>
+								<p><span class="image left"><img src="images/lin.jpg" alt="" /></span>I’m a Data Science Research Analyst at Procter & Gamble, where I apply cutting-edge machine learning and statistical models to enhance product analysis. 
+								<br />
+								I am a Master's student in Artificial Intelligence and Robotics at University of Cincinnati, Ohio. I am proficient in programming languages such as Python, C++, and Matlab, and skilled in utilizing machine learning tools and libraries including PyTorch, TensorFlow, Scikit-learn, and OpenCV. I am passionate about continuous learning and innovation, and eager to contribute to dynamic projects and collaborative teams.
+								<br />I also enjoy reading books, gaming and Trading Crypto.</p>
+								</header>
+								
+								<header>
+								<h2>Skills</h2>
 									<p>Over the last couple of years, I've gained substantial experience utilizing machine learning models and data analysis tools. My work involved employing data science methods to draw insights for data visualization, forecasting models, and generating comprehensive reports for strategic solutions. </p>
 									<p>Currently, my focus is on Text Mining using Python.</pp> 
 									<div class="row">
